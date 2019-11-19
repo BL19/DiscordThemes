@@ -1,3 +1,8 @@
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+
+
+
 /*
 	BasicBackground
 */
@@ -3120,4 +3125,8 @@ html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2r
     --deprecated-text-input-border-hover: #040405;
     --deprecated-text-input-border-disabled: #202225;
     --deprecated-text-input-prefix: #dcddde;
+}
+
+.embedFull-2tM8-- {
+	border-left: 4px solid;
 }
