@@ -6,6 +6,16 @@
 */
 
 
+.scrollableContainer-38zsVD {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: rgba(var(--vtransparencycolor),var(--vtransparencyalpha)) !important;
+    max-height: 144px;
+    border-radius: 8px;
+    scrollbar-width: none;
+}
+
+
 .container-16j22k:before,
 .appMount-3lHmkl:before {
 	content: "";
