@@ -6,6 +6,19 @@
 */
 
 
+.theme-dark .container-1D34oG {
+    background-color: var(--background-primary);
+}
+
+.scrollableContainer-2NUZem {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: rgba(var(--vtransparencycolor),var(--vtransparencyalpha));
+    max-height: 144px;
+    border-radius: 8px;
+    scrollbar-width: none;
+}
+
 .scrollableContainer-38zsVD {
     overflow-x: hidden;
     overflow-y: scroll;
